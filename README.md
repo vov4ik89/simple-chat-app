@@ -15,4 +15,3 @@ Also, user can change his name anytime.
 1. Fork this repository
 2. Clone your repository to IDE
 3. Run the project - http://localhost:8080
-# simple-chat-app
