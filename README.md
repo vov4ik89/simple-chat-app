@@ -9,7 +9,6 @@ Also, user can change his name anytime.
 - JDK 17
 - Spring Boot (WebSocket)
 - Lombok
-- Maven
 
 **Instruction to run the project** 📄
 1. Fork this repository
